@@ -1,0 +1,56 @@
+﻿Voici un tableau avec 50 noms de produits informatiques, leur poids en kilogrammes, leurs dimensions en centimètres et leur prix conseillé :
+
+| Noms de produit     | Poids (kg) | Dimensions (cm)    | Prix conseillé ($) |
+|---------------------|------------|--------------------|--------------------|
+| Ordinateur portable | 2.5        | 35 x 24 x 2.5      | 999                |
+| Moniteur            | 5.2        | 60 x 40 x 10       | 299                |
+| Clavier             | 0.8        | 45 x 15 x 3        | 49                 |
+| Souris              | 0.1        | 10 x 6 x 3         | 19                 |
+| Imprimante          | 7.8        | 45 x 35 x 25       | 199                |
+| Scanner             | 3.2        | 30 x 20 x 10       | 149                |
+| Routeur             | 0.4        | 20 x 15 x 5        | 79                 |
+| Modem               | 0.3        | 15 x 10 x 4        | 59                 |
+| Disque dur externe  | 0.2        | 10 x 8 x 2         | 79                 |
+| Clé USB             | 0.02       | 5 x 2 x 0.5        | 9.99               |
+| Carte graphique     | 1.2        | 25 x 10 x 4        | 399                |
+| Carte mère          | 0.6        | 30 x 20 x 3        | 129                |
+| Processeur (CPU)    | 0.1        | 5 x 5 x 2          | 299                |
+| Mémoire RAM         | 0.05       | 8 x 2 x 0.5        | 79                 |
+| Disque dur interne  | 0.4        | 10 x 7 x 2         | 129                |
+| SSD (Solid-State Drive) | 0.05 | 5 x 3 x 0.5        | 99                 |
+| Écran tactile       | 3.8        | 55 x 30 x 5        | 599                |
+| Casque audio        | 0.3        | 20 x 18 x 10       | 79                 |
+| Haut-parleurs       | 1.2        | 25 x 15 x 10       | 149                |
+| Webcam              | 0.1        | 5 x 5 x 2          | 49                 |
+| Microphone          | 0.2        | 10 x 5 x 3         | 29                 |
+| Tablette            | 0.5        | 25 x 18 x 1        | 399                |
+| Smartphone          | 0.2        | 15 x 7 x 0.8       | 699                |
+| Smartwatch          | 0.1        | 4 x 4 x 1          | 199                |
+| Écouteurs sans fil  | 0.05       | 3 x 2 x 1          | 149                |
+| Routeur Wi-Fi       | 0.3        | 15 x 10 x 4        | 99                 |
+| Adaptateur Bluetooth| 0.02
+
+       | 3 x 2 x 1          | 19                 |
+| Batterie externe     | 0.2        | 10 x 5 x 2         | 49                 |
+| Support pour ordinateur portable | 0.1 | 30 x 25 x 5  | 29                 |
+| Repose-poignet pour clavier     | 0.1 | 45 x 6 x 2        | 19                 |
+| Tapis de souris      | 0.05       | 25 x 20 x 0.2      | 9.99               |
+| Adaptateur HDMI      | 0.02       | 5 x 3 x 1          | 9.99               |
+| Câble Ethernet       | 0.1        | 100 x 1 x 1        | 9.99               |
+| Adaptateur secteur   | 0.2        | 10 x 5 x 3         | 19                 |
+| Housse de protection pour ordinateur portable | 0.3 | 35 x 25 x 2 | 29         |
+| Housse de protection pour tablette     | 0.2 | 30 x 20 x 1       | 19                 |
+| Housse de protection pour smartphone    | 0.05 | 15 x 8 x 1       | 9.99               |
+| Nettoyant pour écran                  | 0.1  | 10 x 5 x 3        | 9.99               |
+| Sacoche pour ordinateur portable       | 0.4  | 40 x 30 x 5       | 39                 |
+| Sac à dos pour ordinateur portable     | 0.5  | 45 x 35 x 10      | 49                 |
+| Sac de transport pour tablette         | 0.3  | 35 x 25 x 5       | 29                 |
+| Support de bureau pour écran           | 1.5  | 60 x 20 x 15      | 59                 |
+| Support mural pour écran               | 1.2  | 60 x 10 x 5       | 49                 |
+| Kit de nettoyage pour ordinateur       | 0.2  | 15 x 10 x 5       | 9.99               |
+| Cartouche d'encre pour imprimante      | 0.1  | 10 x 5 x 3        | 29                 |
+| Toner pour imprimante                  | 0.3  | 15 x 10 x 5       | 59                 |
+| Antivol pour ordinateur portable       | 0.1  | 10 x 5 x 3        | 19                 |
+| Logiciel antivirus                     | -    | -                 | 49                 |
+
+Veuillez noter que les poids, dimensions et prix conseillés sont donnés à titre indicatif et peuvent varier selon les modèles et les marques.
